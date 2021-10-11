@@ -38,6 +38,9 @@
     font-weight: 600;
     font-size: 16px;
 }
+.nav-link .fa{
+    margin-right: 8px;
+}
 /*NavBar end*/
 
 /* Slider start*/
